@@ -1,0 +1,7 @@
+{
+  "name": "ionic-modals-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
