@@ -2,7 +2,7 @@
 
 ## Current behaviour
 
-Datetime wheels are not shown after click datetime input is clicked in a modal with custom width and height.
+Datetime wheels are not shown after datetime input is clicked in a modal with custom width and height.
 
 ## Expected Behavior
 
